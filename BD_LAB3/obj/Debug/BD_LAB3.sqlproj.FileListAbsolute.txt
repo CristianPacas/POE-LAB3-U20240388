@@ -1,0 +1,6 @@
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\bin\Debug\BD_LAB3.dacpac
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\bin\Debug\BD_LAB3.dll
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\bin\Debug\BD_LAB3.pdb
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.sqlproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.dll
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.pdb
