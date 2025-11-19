@@ -4,3 +4,7 @@ C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\bin\Debug\
 C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.sqlproj.AssemblyReference.cache
 C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.dll
 C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\BD_LAB3.pdb
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\Model.xml
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\refactor.xml
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\postdeploy.sql
+C:\Users\crist\Desktop\Escritorio\POE\LAB3\POE-LAB3-U20240388\BD_LAB3\obj\Debug\predeploy.sql
